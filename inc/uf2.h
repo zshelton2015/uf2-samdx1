@@ -24,7 +24,7 @@
 
 // always go for crystalless - smaller and more compatible
 #ifndef CRYSTALLESS
-#define CRYSTALLESS 1
+#define CRYSTALLESS 0 
 #endif
 
 #ifndef USB_PID
